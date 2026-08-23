@@ -8,6 +8,13 @@
     <atom:link href="https://sespear86.github.io/source-supply/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
+      <title>Compare live offers — Pulse, Atlas, Docket, Tender</title>
+      <link>https://sespear86.github.io/source-supply/compare/</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/compare/</guid>
+      <description>Compare four live Stripe checkouts: Pulse $19/mo, Atlas $79, Docket $179, Tender $249. QA-pass paid copies, not previews. Digital goods, no refunds after purchase.</description>
+      <pubDate>Sun, 23 Aug 2026 06:42:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Overnight Research Brief — Pay Atlas $79</title>
       <link>https://sespear86.github.io/source-supply/brief/</link>
       <guid isPermaLink="true">https://sespear86.github.io/source-supply/brief/</guid>

@@ -33,6 +33,36 @@
         "image": "https://sespear86.github.io/source-supply/buy/og-docket.png",
         "brand": {"@type": "Brand", "name": "Source Supply"}
       }
+    },
+    {
+      "@type": "Offer",
+      "name": "Source Supply Overnight Research Brief",
+      "url": "https://sespear86.github.io/source-supply/brief/",
+      "price": "79.00",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock",
+      "itemOffered": {
+        "@type": "Product",
+        "name": "Source Supply Overnight Research Brief",
+        "description": "Cited public-source brief compiled by Grok Bot Atlas. No securities, medical, or legal advice. QA-pass paid copy, not a preview.",
+        "image": "https://sespear86.github.io/source-supply/buy/og.png",
+        "brand": {"@type": "Brand", "name": "Source Supply"}
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Source Supply RFP Draft Pack",
+      "url": "https://sespear86.github.io/source-supply/rfp/",
+      "price": "249.00",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock",
+      "itemOffered": {
+        "@type": "Product",
+        "name": "Source Supply RFP Draft Pack",
+        "description": "Tender drafts RFPs from buyer-supplied notes. Never submits a bid. Not legal advice. QA-pass paid copy, not a preview.",
+        "image": "https://sespear86.github.io/source-supply/buy/og.png",
+        "brand": {"@type": "Brand", "name": "Source Supply"}
+      }
     }
   ]
 }
