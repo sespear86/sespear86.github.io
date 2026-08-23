@@ -6,6 +6,7 @@
     <description>Live legal Source Supply offers. Pulse weekly operator digest $19/mo. Docket public-record vendor standing pack $179. Digital goods, no refunds after purchase. QA-pass paid copies, not previews.</description>
     <language>en-us</language>
     <atom:link href="https://sespear86.github.io/source-supply/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
       <title>Source Supply Weekly Operator Digest — $19/mo</title>
       <link>https://sespear86.github.io/source-supply/streams/weekly-digest/index.html</link>

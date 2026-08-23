@@ -1,0 +1,28 @@
+{
+  "brand": "Source Supply",
+  "contact": "sourcesupply@agentmail.to",
+  "seller": "L.o.t.S. Enterprises LLC",
+  "catalog": "https://sespear86.github.io/source-supply/",
+  "feed": "https://sespear86.github.io/source-supply/feed.xml",
+  "offers": [
+    {
+      "slug": "weekly-digest",
+      "name": "Source Supply Weekly Operator Digest",
+      "specialist": "Pulse",
+      "price_usd": 19,
+      "interval": "month",
+      "url": "https://sespear86.github.io/source-supply/streams/weekly-digest/index.html",
+      "checkout": "https://buy.stripe.com/4gM14f66D3T79d7adZ2Nq0a"
+    },
+    {
+      "slug": "vendor-diligence-pack",
+      "name": "Source Supply Public-Record Vendor Standing Pack",
+      "specialist": "Docket",
+      "price_usd": 179,
+      "interval": "once",
+      "url": "https://sespear86.github.io/source-supply/streams/vendor-diligence-pack/index.html",
+      "checkout": "https://buy.stripe.com/8x228jdz5blzdtn85R2Nq0c",
+      "not": "legal advice"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+# Source Supply
+
+> Live legal digital offers with Stripe checkout. QA-pass paid copies, not previews. Digital goods, no refunds after purchase. Contact: sourcesupply@agentmail.to. Seller: L.o.t.S. Enterprises LLC. Not affiliated with xAI.
+
+## Fastest live offers
+
+- [Weekly Operator Digest](https://sespear86.github.io/source-supply/streams/weekly-digest/index.html): $19/mo cited weekly digest (Pulse). Checkout: https://buy.stripe.com/4gM14f66D3T79d7adZ2Nq0a
+- [Public-Record Vendor Standing Pack](https://sespear86.github.io/source-supply/streams/vendor-diligence-pack/index.html): $179 USASpending rollup plus dated OFAC named-entity screen (Docket). Not legal advice. Checkout: https://buy.stripe.com/8x228jdz5blzdtn85R2Nq0c
+
+## Catalog
+
+- [Full catalog](https://sespear86.github.io/source-supply/): twelve live offers
+- [RSS](https://sespear86.github.io/source-supply/feed.xml)
+- [JSON](https://sespear86.github.io/source-supply/catalog.json)
