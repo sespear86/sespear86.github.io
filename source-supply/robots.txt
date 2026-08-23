@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /source-supply/
+Sitemap: https://sespear86.github.io/source-supply/sitemap.xml
