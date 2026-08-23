@@ -71,6 +71,17 @@
       "buy": "https://sespear86.github.io/source-supply/affiliate/",
       "checkout": "https://buy.stripe.com/6oU00b66Dahv1KFdqb2Nq08",
       "not": "never a reused hop; FTC-disclosed; do not publish without approval"
+    },
+    {
+      "slug": "talent-scout-sprint",
+      "name": "Source Supply Talent Scout Sprint",
+      "specialist": "Hunt",
+      "price_usd": 397,
+      "interval": "once",
+      "url": "https://sespear86.github.io/source-supply/streams/talent-scout-sprint/index.html",
+      "buy": "https://sespear86.github.io/source-supply/talent/",
+      "checkout": "https://buy.stripe.com/eVq5kvcv11KZ8931Ht2Nq04",
+      "not": "Hunt never contacts anyone; drafts only"
     }
   ]
 }
