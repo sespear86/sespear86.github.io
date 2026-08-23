@@ -8,6 +8,13 @@
     <atom:link href="https://sespear86.github.io/source-supply/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
+      <title>Format — you buy a file, not a login</title>
+      <link>https://sespear86.github.io/source-supply/format/</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/format/</guid>
+      <description>Each live offer is a QA-pass file emailed after Stripe, not a dashboard login. Pulse $19/mo, Atlas $79, Docket $179, Tender $249. Seller: L.o.t.S. Enterprises LLC</description>
+      <pubDate>Sun, 23 Aug 2026 13:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Security — Stripe holds the card; the paid file is emailed</title>
       <link>https://sespear86.github.io/source-supply/security/</link>
       <guid isPermaLink="true">https://sespear86.github.io/source-supply/security/</guid>

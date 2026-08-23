@@ -7,6 +7,7 @@ need: https://sespear86.github.io/source-supply/need/
 quality: https://sespear86.github.io/source-supply/quality/
 owned: https://sespear86.github.io/source-supply/owned/
 refunds: https://sespear86.github.io/source-supply/refunds/
+format: https://sespear86.github.io/source-supply/format/
 security: https://sespear86.github.io/source-supply/security/
 privacy: https://sespear86.github.io/source-supply/privacy/
 terms: https://sespear86.github.io/source-supply/terms/

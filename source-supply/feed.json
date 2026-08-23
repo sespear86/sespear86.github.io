@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/format/",
+      "url": "https://sespear86.github.io/source-supply/format/",
+      "title": "Format — you buy a file, not a login",
+      "content_text": "Each live offer is a QA-pass file emailed after Stripe, not a dashboard login. Pulse $19/mo, Atlas $79, Docket $179, Tender $249. Seller: L.o.t.S. Enterprises LLC",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T13:00:00Z",
+      "tags": ["format", "digital-goods"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/security/",
       "url": "https://sespear86.github.io/source-supply/security/",
       "title": "Security — Stripe holds the card; the paid file is emailed",
