@@ -7,6 +7,7 @@ need: https://sespear86.github.io/source-supply/need/
 quality: https://sespear86.github.io/source-supply/quality/
 owned: https://sespear86.github.io/source-supply/owned/
 refunds: https://sespear86.github.io/source-supply/refunds/
+inspect: https://sespear86.github.io/source-supply/inspect/
 who: https://sespear86.github.io/source-supply/who/
 license: https://sespear86.github.io/source-supply/license/
 hours: https://sespear86.github.io/source-supply/hours/
