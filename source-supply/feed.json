@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/card/",
+      "url": "https://sespear86.github.io/source-supply/card/",
+      "title": "Card — enter it on Stripe’s hosted Payment Link",
+      "content_text": "You enter the card on Stripe, not on Source Supply. Pulse $19/mo, Atlas $79, Docket $179, Tender $249. Seller: L.o.t.S. Enterprises LLC",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T14:50:00Z",
+      "tags": ["card", "checkout"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/open/",
       "url": "https://sespear86.github.io/source-supply/open/",
       "title": "Open the file — Harbor emails a QA-pass copy, not a login",

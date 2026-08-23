@@ -8,6 +8,13 @@
     <atom:link href="https://sespear86.github.io/source-supply/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
+      <title>Card — enter it on Stripe’s hosted Payment Link</title>
+      <link>https://sespear86.github.io/source-supply/card/</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/card/</guid>
+      <description>You enter the card on Stripe, not on Source Supply. Pulse $19/mo, Atlas $79, Docket $179, Tender $249. Seller: L.o.t.S. Enterprises LLC</description>
+      <pubDate>Sun, 23 Aug 2026 14:50:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Open the file — Harbor emails a QA-pass copy, not a login</title>
       <link>https://sespear86.github.io/source-supply/open/</link>
       <guid isPermaLink="true">https://sespear86.github.io/source-supply/open/</guid>
