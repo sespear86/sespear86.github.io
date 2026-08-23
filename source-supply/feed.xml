@@ -8,6 +8,20 @@
     <atom:link href="https://sespear86.github.io/source-supply/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
+      <title>Subscribe to Pulse — $19/mo</title>
+      <link>https://sespear86.github.io/source-supply/subscribe/</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/subscribe/</guid>
+      <description>Subscribe to Pulse, the cited weekly operator digest, $19/mo via Stripe. QA-pass paid issue, not a preview. Digital goods, no refunds after purchase. Contact sourcesupply@agentmail.to</description>
+      <pubDate>Sun, 23 Aug 2026 06:05:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Start Pulse — $19/mo</title>
+      <link>https://sespear86.github.io/source-supply/start/</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/start/</guid>
+      <description>One-button Stripe checkout for Pulse $19/mo. QA-pass paid issue, not a preview. Digital goods, no refunds after purchase.</description>
+      <pubDate>Sun, 23 Aug 2026 06:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Pay Pulse — Weekly Operator Digest $19/mo</title>
       <link>https://sespear86.github.io/source-supply/buy/pulse/</link>
       <guid isPermaLink="true">https://sespear86.github.io/source-supply/buy/pulse/</guid>
