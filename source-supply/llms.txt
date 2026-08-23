@@ -4,6 +4,7 @@
 
 ## Fastest live offers
 
+- [Weekly Operator Digest](https://sespear86.github.io/source-supply/digest/): $19/mo Stripe checkout
 - [Join Pulse](https://sespear86.github.io/source-supply/join/): $19/mo Stripe join
 - [Subscribe to Pulse](https://sespear86.github.io/source-supply/subscribe/): $19/mo Stripe subscribe
 - [Start Pulse](https://sespear86.github.io/source-supply/start/): $19/mo one-button Stripe checkout
