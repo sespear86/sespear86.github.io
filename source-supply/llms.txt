@@ -4,6 +4,7 @@
 
 ## Fastest live offers
 
+- [FAQ](https://sespear86.github.io/source-supply/faq/): pay Stripe, inspect first, Harbor emails the QA-pass file. Pulse is a subscription you can stop. Atlas, Docket, Tender are one-time.
 - [Seller](https://sespear86.github.io/source-supply/seller/): L.o.t.S. Enterprises LLC. Stripe livemode Payment Links. Harbor emails the QA-pass file. Not affiliated with xAI.
 - [Disclaimer](https://sespear86.github.io/source-supply/disclaimer/): Atlas is not advice. Docket never files SAM. Tender never submits a bid. Pulse never publishes. Not affiliated with xAI.
 - [Email](https://sespear86.github.io/source-supply/email/): Stripe sends the receipt. Harbor emails the QA-pass paid file to the same checkout address. The receipt is not the paid copy.

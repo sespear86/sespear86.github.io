@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/faq/",
+      "url": "https://sespear86.github.io/source-supply/faq/",
+      "title": "FAQ — pay Stripe, inspect first, Harbor emails the QA-pass file",
+      "content_text": "How to pay, what arrives, how to cancel Pulse, and who the seller is. Pulse $19/mo, Atlas $79, Docket $179, Tender $249. Seller: L.o.t.S. Enterprises LLC",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T13:50:00Z",
+      "tags": ["faq", "checkout"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/seller/",
       "url": "https://sespear86.github.io/source-supply/seller/",
       "title": "Seller — L.o.t.S. Enterprises LLC, Stripe Payment Links",

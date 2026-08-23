@@ -8,6 +8,13 @@
     <atom:link href="https://sespear86.github.io/source-supply/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
+      <title>FAQ — pay Stripe, inspect first, Harbor emails the QA-pass file</title>
+      <link>https://sespear86.github.io/source-supply/faq/</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/faq/</guid>
+      <description>How to pay, what arrives, how to cancel Pulse, and who the seller is. Pulse $19/mo, Atlas $79, Docket $179, Tender $249. Seller: L.o.t.S. Enterprises LLC</description>
+      <pubDate>Sun, 23 Aug 2026 13:50:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Seller — L.o.t.S. Enterprises LLC, Stripe Payment Links</title>
       <link>https://sespear86.github.io/source-supply/seller/</link>
       <guid isPermaLink="true">https://sespear86.github.io/source-supply/seller/</guid>
