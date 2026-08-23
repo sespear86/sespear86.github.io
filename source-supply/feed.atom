@@ -5,8 +5,15 @@
   <link href="https://sespear86.github.io/source-supply/feed.atom" rel="self"/>
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <id>https://sespear86.github.io/source-supply/feed.atom</id>
-  <updated>2026-08-23T14:50:00Z</updated>
+  <updated>2026-08-23T15:15:00Z</updated>
   <subtitle>Live legal Source Supply digital goods with Stripe checkout. QA-pass paid copies, not previews.</subtitle>
+  <entry>
+    <title>Why pay — sample is format proof, not the paid file</title>
+    <link href="https://sespear86.github.io/source-supply/why/"/>
+    <id>https://sespear86.github.io/source-supply/why/</id>
+    <updated>2026-08-23T15:15:00Z</updated>
+    <summary>The free sample proves format and sourcing. The paid file is that SKU’s QA-pass copy. Sample is not a substitute.</summary>
+  </entry>
   <entry>
     <title>Card — enter it on Stripe’s hosted Payment Link</title>
     <link href="https://sespear86.github.io/source-supply/card/"/>

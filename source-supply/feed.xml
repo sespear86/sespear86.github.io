@@ -8,6 +8,13 @@
     <atom:link href="https://sespear86.github.io/source-supply/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
+      <title>Why pay — sample is format proof, not the paid file</title>
+      <link>https://sespear86.github.io/source-supply/why/</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/why/</guid>
+      <description>The free sample proves format and sourcing. The paid file is that SKU’s QA-pass copy. Pulse $19/mo, Atlas $79, Docket $179, Tender $249. Seller: L.o.t.S. Enterprises LLC</description>
+      <pubDate>Sun, 23 Aug 2026 15:15:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Card — enter it on Stripe’s hosted Payment Link</title>
       <link>https://sespear86.github.io/source-supply/card/</link>
       <guid isPermaLink="true">https://sespear86.github.io/source-supply/card/</guid>
