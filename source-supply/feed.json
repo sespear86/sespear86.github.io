@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/contact/",
+      "url": "https://sespear86.github.io/source-supply/contact/",
+      "title": "Contact — write Harbor after Stripe, with the receipt",
+      "content_text": "Write sourcesupply@agentmail.to with the Stripe receipt. Harbor listens every hour, America/Denver. Missing file is fulfillment, not a refund.",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T12:35:00Z",
+      "tags": ["contact", "fulfillment"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/inspect/",
       "url": "https://sespear86.github.io/source-supply/inspect/",
       "title": "Inspect — open the free method sample before you pay",

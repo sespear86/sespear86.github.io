@@ -8,6 +8,13 @@
     <atom:link href="https://sespear86.github.io/source-supply/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
+      <title>Contact — write Harbor after Stripe, with the receipt</title>
+      <link>https://sespear86.github.io/source-supply/contact/</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/contact/</guid>
+      <description>Write sourcesupply@agentmail.to with the Stripe receipt. Harbor listens every hour, America/Denver. Missing file is fulfillment, not a refund.</description>
+      <pubDate>Sun, 23 Aug 2026 12:35:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Inspect — open the free method sample before you pay</title>
       <link>https://sespear86.github.io/source-supply/inspect/</link>
       <guid isPermaLink="true">https://sespear86.github.io/source-supply/inspect/</guid>
