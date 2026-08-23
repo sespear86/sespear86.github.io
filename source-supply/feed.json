@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/seller/",
+      "url": "https://sespear86.github.io/source-supply/seller/",
+      "title": "Seller — L.o.t.S. Enterprises LLC, Stripe Payment Links",
+      "content_text": "The merchant is L.o.t.S. Enterprises LLC. Checkout is Stripe. Harbor emails the QA-pass file. Not affiliated with xAI.",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T13:40:00Z",
+      "tags": ["seller", "merchant"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/disclaimer/",
       "url": "https://sespear86.github.io/source-supply/disclaimer/",
       "title": "Disclaimer — not advice, not a filing, not a bid",
