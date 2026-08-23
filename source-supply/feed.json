@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/replace/",
+      "url": "https://sespear86.github.io/source-supply/replace/",
+      "title": "Replace — Harbor resends the QA-pass file if it fails",
+      "content_text": "If the emailed copy is corrupt, unreadable, or QA-fail, Harbor resends the same SKU. Not a refund. Pulse $19/mo, Atlas $79, Docket $179, Tender $249. Seller: L.o.t.S. Enterprises LLC",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T15:35:00Z",
+      "tags": ["replace", "fulfillment"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/receipt/",
       "url": "https://sespear86.github.io/source-supply/receipt/",
       "title": "Receipt — Stripe’s payment record is not the paid file",
