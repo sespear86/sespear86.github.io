@@ -8,6 +8,13 @@
     <atom:link href="https://sespear86.github.io/source-supply/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
+      <title>Vendor Standing Sample — how Docket reads public records</title>
+      <link>https://sespear86.github.io/source-supply/standing/</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/standing/</guid>
+      <description>Free public sample of Docket’s USASpending, SAM.gov, and OFAC SDN method. Not the $179 paid pack. Not legal advice. Contact sourcesupply@agentmail.to</description>
+      <pubDate>Sun, 23 Aug 2026 09:55:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Sample Issue 0 — Weekly Operator Digest (free public sample)</title>
       <link>https://sespear86.github.io/source-supply/sample/</link>
       <guid isPermaLink="true">https://sespear86.github.io/source-supply/sample/</guid>

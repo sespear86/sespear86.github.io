@@ -7,6 +7,7 @@ Seller: L.o.t.S. Enterprises LLC
 Standards: HTML5, JSON-LD, JSON Feed 1.1, RSS
 Checkout: Stripe livemode Payment Links
 Sample: https://sespear86.github.io/source-supply/sample/ (free Issue 0, not the paid file)
+Standing: https://sespear86.github.io/source-supply/standing/ (free Docket method, not the $179 pack)
 Offers: Pulse $19/mo https://sespear86.github.io/source-supply/start/
         Atlas $79 https://sespear86.github.io/source-supply/brief/
         Docket $179 https://sespear86.github.io/source-supply/buy/docket/

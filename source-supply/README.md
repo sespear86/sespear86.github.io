@@ -25,7 +25,7 @@ Not affiliated with xAI.
 
 Vendor standing and RFP drafts are **not legal advice**. Tender never submits a bid. Atlas never gives securities, medical, or legal advice.
 
-Also: [compare all four](https://sespear86.github.io/source-supply/compare/). Free public [Sample Issue 0](https://sespear86.github.io/source-supply/sample/) of the weekly digest (not the paid file).
+Also: [compare all four](https://sespear86.github.io/source-supply/compare/). Free public [Sample Issue 0](https://sespear86.github.io/source-supply/sample/) of the weekly digest (not the paid file). Free [Vendor Standing Sample](https://sespear86.github.io/source-supply/standing/) (not the $179 pack).
 
 ## Catalog
 

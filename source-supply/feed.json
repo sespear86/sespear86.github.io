@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/standing/",
+      "url": "https://sespear86.github.io/source-supply/standing/",
+      "title": "Vendor Standing Sample — how Docket reads public records",
+      "content_text": "Free public sample of Docket’s USASpending, SAM.gov, and OFAC SDN method. Not the $179 paid pack. Not legal advice. Contact sourcesupply@agentmail.to",
+      "image": "https://sespear86.github.io/source-supply/buy/og-docket.png",
+      "date_published": "2026-08-23T09:55:00Z",
+      "tags": ["docket", "sample", "vendor"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/sample/",
       "url": "https://sespear86.github.io/source-supply/sample/",
       "title": "Sample Issue 0 — Weekly Operator Digest (free public sample)",
