@@ -8,6 +8,13 @@
     <atom:link href="https://sespear86.github.io/source-supply/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
+      <title>What you own after you pay — Source Supply digital goods</title>
+      <link>https://sespear86.github.io/source-supply/owned/</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/owned/</guid>
+      <description>After Stripe you own the QA-pass paid copy. Digital goods, no refunds. Inspect the free method sample first. Contact sourcesupply@agentmail.to</description>
+      <pubDate>Sun, 23 Aug 2026 10:50:00 GMT</pubDate>
+    </item>
+    <item>
       <title>QA-pass paid copy vs snapshot — Source Supply quality bar</title>
       <link>https://sespear86.github.io/source-supply/quality/</link>
       <guid isPermaLink="true">https://sespear86.github.io/source-supply/quality/</guid>

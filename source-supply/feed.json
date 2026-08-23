@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/owned/",
+      "url": "https://sespear86.github.io/source-supply/owned/",
+      "title": "What you own after you pay — Source Supply digital goods",
+      "content_text": "After Stripe you own the QA-pass paid copy. Digital goods, no refunds. Inspect the free method sample first. Contact sourcesupply@agentmail.to",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T10:50:00Z",
+      "tags": ["owned", "digital-goods"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/quality/",
       "url": "https://sespear86.github.io/source-supply/quality/",
       "title": "QA-pass paid copy vs snapshot — Source Supply quality bar",

@@ -12,6 +12,7 @@ Research: https://sespear86.github.io/source-supply/research/ (free Atlas method
 Proposal: https://sespear86.github.io/source-supply/proposal/ (free Tender method, not the $249 pack)
 Need: https://sespear86.github.io/source-supply/need/ (job chooser)
 Quality: https://sespear86.github.io/source-supply/quality/ (QA-pass vs snapshot)
+Owned: https://sespear86.github.io/source-supply/owned/ (what you own after Stripe)
 Offers: Pulse $19/mo https://sespear86.github.io/source-supply/start/
         Atlas $79 https://sespear86.github.io/source-supply/brief/
         Docket $179 https://sespear86.github.io/source-supply/buy/docket/
