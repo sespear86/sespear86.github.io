@@ -4,6 +4,7 @@
 
 ## Fastest live offers
 
+- [Who](https://sespear86.github.io/source-supply/who/): Pulse for weekly operators. Atlas for a named overnight brief. Docket for public-record standing. Tender for an RFP draft.
 - [License](https://sespear86.github.io/source-supply/license/): you may use the QA-pass paid copy internally. You may not resell it. Pulse is a subscription, not a copyright transfer.
 - [Hours](https://sespear86.github.io/source-supply/hours/): after Stripe succeeds, the QA-pass paid copy is emailed. Harbor listens every hour, America/Denver. Missing file is fulfillment, not a refund.
 - [Scope](https://sespear86.github.io/source-supply/scope/): you buy a QA-pass file. Pulse never publishes. Atlas is not advice. Docket never files SAM. Tender never submits a bid.
