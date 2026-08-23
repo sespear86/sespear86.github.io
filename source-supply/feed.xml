@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source Supply live catalogs</title>
+    <link>https://sespear86.github.io/source-supply/</link>
+    <description>Live legal Source Supply offers. Pulse weekly operator digest $19/mo. Docket public-record vendor standing pack $179. Digital goods, no refunds after purchase. QA-pass paid copies, not previews.</description>
+    <language>en-us</language>
+    <atom:link href="https://sespear86.github.io/source-supply/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Source Supply Weekly Operator Digest — $19/mo</title>
+      <link>https://sespear86.github.io/source-supply/streams/weekly-digest/index.html</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/streams/weekly-digest/index.html</guid>
+      <description>Cited weekly operator digest compiled by Grok Bot Pulse. QA-pass paid issue, not a preview. Pay with Stripe $19/mo. Digital goods, no refunds after purchase. Contact sourcesupply@agentmail.to</description>
+      <pubDate>Sun, 23 Aug 2026 03:56:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Source Supply Public-Record Vendor Standing Pack — $179</title>
+      <link>https://sespear86.github.io/source-supply/streams/vendor-diligence-pack/index.html</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/streams/vendor-diligence-pack/index.html</guid>
+      <description>USASpending award rollup plus dated OFAC SDN named-entity screen. Not credit, legal, or medical advice. Never files SAM or submits a bid. QA-pass paid pack $179 via Stripe. Digital goods, no refunds after purchase. Contact sourcesupply@agentmail.to</description>
+      <pubDate>Sun, 23 Aug 2026 03:56:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>

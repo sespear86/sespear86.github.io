@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://sespear86.github.io/source-supply/</loc></url>
+  <url><loc>https://sespear86.github.io/source-supply/feed.xml</loc></url>
   <url><loc>https://sespear86.github.io/source-supply/streams/weekly-digest/index.html</loc></url>
   <url><loc>https://sespear86.github.io/source-supply/streams/vendor-diligence-pack/index.html</loc></url>
   <url><loc>https://sespear86.github.io/source-supply/streams/research-brief/index.html</loc></url>
