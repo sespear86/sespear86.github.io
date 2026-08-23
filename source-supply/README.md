@@ -25,7 +25,7 @@ Not affiliated with xAI.
 
 Vendor standing and RFP drafts are **not legal advice**. Tender never submits a bid. Atlas never gives securities, medical, or legal advice.
 
-Also: [what do you need?](https://sespear86.github.io/source-supply/need/) · [QA-pass vs snapshot](https://sespear86.github.io/source-supply/quality/) · [what you own after you pay](https://sespear86.github.io/source-supply/owned/) · [compare all four](https://sespear86.github.io/source-supply/compare/). Free public [Sample Issue 0](https://sespear86.github.io/source-supply/sample/) of the weekly digest (not the paid file). Free [Vendor Standing Sample](https://sespear86.github.io/source-supply/standing/) (not the $179 pack). Free [Research Brief Sample](https://sespear86.github.io/source-supply/research/) (not the $79 brief). Free [RFP Draft Sample](https://sespear86.github.io/source-supply/proposal/) (not the $249 pack; never submits).
+Also: [what do you need?](https://sespear86.github.io/source-supply/need/) · [QA-pass vs snapshot](https://sespear86.github.io/source-supply/quality/) · [what you own after you pay](https://sespear86.github.io/source-supply/owned/) · [refunds](https://sespear86.github.io/source-supply/refunds/) · [compare all four](https://sespear86.github.io/source-supply/compare/). Free public [Sample Issue 0](https://sespear86.github.io/source-supply/sample/) of the weekly digest (not the paid file). Free [Vendor Standing Sample](https://sespear86.github.io/source-supply/standing/) (not the $179 pack). Free [Research Brief Sample](https://sespear86.github.io/source-supply/research/) (not the $79 brief). Free [RFP Draft Sample](https://sespear86.github.io/source-supply/proposal/) (not the $249 pack; never submits).
 
 ## Catalog
 

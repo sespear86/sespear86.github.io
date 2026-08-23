@@ -5,8 +5,15 @@
   <link href="https://sespear86.github.io/source-supply/feed.atom" rel="self"/>
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <id>https://sespear86.github.io/source-supply/feed.atom</id>
-  <updated>2026-08-23T10:50:00Z</updated>
+  <updated>2026-08-23T11:00:00Z</updated>
   <subtitle>Live legal Source Supply digital goods with Stripe checkout. QA-pass paid copies, not previews.</subtitle>
+  <entry>
+    <title>Refunds — digital goods, inspect first, then pay</title>
+    <link href="https://sespear86.github.io/source-supply/refunds/"/>
+    <id>https://sespear86.github.io/source-supply/refunds/</id>
+    <updated>2026-08-23T11:00:00Z</updated>
+    <summary>Digital goods: no refunds after purchase. Inspect the free method sample first. Fulfillment of a missing file is not a refund of a delivered copy.</summary>
+  </entry>
   <entry>
     <title>What you own after you pay — Source Supply digital goods</title>
     <link href="https://sespear86.github.io/source-supply/owned/"/>

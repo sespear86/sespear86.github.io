@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/refunds/",
+      "url": "https://sespear86.github.io/source-supply/refunds/",
+      "title": "Refunds — digital goods, inspect first, then pay",
+      "content_text": "Digital goods: no refunds after purchase. Inspect the free method sample and the redacted snapshot before you pay. Fulfillment of a missing file is not a refund of a delivered copy. Contact sourcesupply@agentmail.to",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T11:00:00Z",
+      "tags": ["refunds", "digital-goods"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/owned/",
       "url": "https://sespear86.github.io/source-supply/owned/",
       "title": "What you own after you pay — Source Supply digital goods",

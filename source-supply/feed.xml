@@ -8,6 +8,13 @@
     <atom:link href="https://sespear86.github.io/source-supply/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
+      <title>Refunds — digital goods, inspect first, then pay</title>
+      <link>https://sespear86.github.io/source-supply/refunds/</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/refunds/</guid>
+      <description>Digital goods: no refunds after purchase. Inspect the free method sample and the redacted snapshot before you pay. Fulfillment of a missing file is not a refund of a delivered copy. Contact sourcesupply@agentmail.to</description>
+      <pubDate>Sun, 23 Aug 2026 11:00:00 GMT</pubDate>
+    </item>
+    <item>
       <title>What you own after you pay — Source Supply digital goods</title>
       <link>https://sespear86.github.io/source-supply/owned/</link>
       <guid isPermaLink="true">https://sespear86.github.io/source-supply/owned/</guid>
