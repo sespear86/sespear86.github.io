@@ -3,14 +3,22 @@
 # Seller: L.o.t.S. Enterprises LLC
 # Digital goods, no refunds after purchase. QA-pass paid copies, not previews. Not legal advice.
 
-start: https://sespear86.github.io/source-supply/start/
-pulse-buy: https://sespear86.github.io/source-supply/buy/pulse/
+need: https://sespear86.github.io/source-supply/need/
+quality: https://sespear86.github.io/source-supply/quality/
+pulse-sample: https://sespear86.github.io/source-supply/sample/
 pulse-pay: https://buy.stripe.com/4gM14f66D3T79d7adZ2Nq0a
 pulse-price: 19.00 USD / month
-docket-buy: https://sespear86.github.io/source-supply/buy/docket/
+atlas-sample: https://sespear86.github.io/source-supply/research/
+atlas-pay: https://buy.stripe.com/9B63cn7aHexL60Vbi32Nq02
+atlas-price: 79.00 USD once
+docket-sample: https://sespear86.github.io/source-supply/standing/
 docket-pay: https://buy.stripe.com/8x228jdz5blzdtn85R2Nq0c
 docket-price: 179.00 USD once
+tender-sample: https://sespear86.github.io/source-supply/proposal/
+tender-pay: https://buy.stripe.com/bJe8wH3Yv75j893fyj2Nq0b
+tender-price: 249.00 USD once
 catalog: https://sespear86.github.io/source-supply/
+buy: https://sespear86.github.io/source-supply/buy/
 json-feed: https://sespear86.github.io/source-supply/feed.json
 rss: https://sespear86.github.io/source-supply/feed.xml
 offers-jsonld: https://sespear86.github.io/source-supply/offers.jsonld

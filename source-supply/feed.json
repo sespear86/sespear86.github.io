@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/quality/",
+      "url": "https://sespear86.github.io/source-supply/quality/",
+      "title": "QA-pass paid copy vs snapshot — Source Supply quality bar",
+      "content_text": "Inspect the free method sample and the redacted snapshot before you pay. QA-pass paid copies, not previews. Digital goods, no refunds after purchase. Contact sourcesupply@agentmail.to",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T10:40:00Z",
+      "tags": ["quality", "qa"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/need/",
       "url": "https://sespear86.github.io/source-supply/need/",
       "title": "What do you need? — job chooser for four live Stripe offers",
