@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/security/",
+      "url": "https://sespear86.github.io/source-supply/security/",
+      "title": "Security — Stripe holds the card; the paid file is emailed",
+      "content_text": "Stripe holds the card. The QA-pass paid copy is emailed after checkout, not posted as a public download. Harbor leftover does not click Pay. Seller: L.o.t.S. Enterprises LLC",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T12:55:00Z",
+      "tags": ["security", "fulfillment"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/privacy/",
       "url": "https://sespear86.github.io/source-supply/privacy/",
       "title": "Privacy — Stripe collects the card; we email the paid file",
