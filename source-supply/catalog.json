@@ -82,6 +82,17 @@
       "buy": "https://sespear86.github.io/source-supply/talent/",
       "checkout": "https://buy.stripe.com/eVq5kvcv11KZ8931Ht2Nq04",
       "not": "Hunt never contacts anyone; drafts only"
+    },
+    {
+      "slug": "paid-media-monitor",
+      "name": "Source Supply Paid Media Monitor",
+      "specialist": "Beacon",
+      "price_usd": 197,
+      "interval": "month",
+      "url": "https://sespear86.github.io/source-supply/streams/paid-media-monitor/index.html",
+      "buy": "https://sespear86.github.io/source-supply/ads/",
+      "checkout": "https://buy.stripe.com/14AcMXcv1gFTexr4TF2Nq05",
+      "not": "Beacon never changes budgets; drafts only"
     }
   ]
 }

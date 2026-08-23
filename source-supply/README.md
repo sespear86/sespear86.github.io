@@ -17,6 +17,7 @@ Not affiliated with xAI.
 | Outbound Lead Pack | Quill | $197 | [Stripe](https://buy.stripe.com/14AdR1gLh61f4WR1Ht2Nq01) · [page](https://sespear86.github.io/source-supply/leads/) |
 | Affiliate Desk Setup | Compass | $147 | [Stripe](https://buy.stripe.com/6oU00b66Dahv1KFdqb2Nq08) · [page](https://sespear86.github.io/source-supply/affiliate/) |
 | Talent Scout Sprint | Hunt | $397 | [Stripe](https://buy.stripe.com/eVq5kvcv11KZ8931Ht2Nq04) · [page](https://sespear86.github.io/source-supply/talent/) |
+| Paid Media Monitor | Beacon | $197/mo | [Stripe](https://buy.stripe.com/14AcMXcv1gFTexr4TF2Nq05) · [page](https://sespear86.github.io/source-supply/ads/) |
 
 Vendor standing and RFP drafts are **not legal advice**. Tender never submits a bid. Atlas never gives securities, medical, or legal advice.
 
