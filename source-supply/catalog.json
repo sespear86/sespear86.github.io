@@ -60,6 +60,17 @@
       "buy": "https://sespear86.github.io/source-supply/leads/",
       "checkout": "https://buy.stripe.com/14AdR1gLh61f4WR1Ht2Nq01",
       "not": "Quill never sends; drafts only"
+    },
+    {
+      "slug": "affiliate-desk",
+      "name": "Source Supply Affiliate Desk Setup",
+      "specialist": "Compass",
+      "price_usd": 147,
+      "interval": "once",
+      "url": "https://sespear86.github.io/source-supply/streams/affiliate-desk/index.html",
+      "buy": "https://sespear86.github.io/source-supply/affiliate/",
+      "checkout": "https://buy.stripe.com/6oU00b66Dahv1KFdqb2Nq08",
+      "not": "never a reused hop; FTC-disclosed; do not publish without approval"
     }
   ]
 }

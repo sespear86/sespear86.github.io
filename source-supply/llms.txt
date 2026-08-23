@@ -11,6 +11,7 @@
 - [Subscribe to Pulse](https://sespear86.github.io/source-supply/subscribe/): $19/mo Stripe subscribe
 - [Start Pulse](https://sespear86.github.io/source-supply/start/): $19/mo one-button Stripe checkout
 - [Pay Pulse](https://sespear86.github.io/source-supply/pulse/): $19/mo short URL → Stripe. Conversion: https://sespear86.github.io/source-supply/buy/pulse/
+- [Affiliate Desk Setup](https://sespear86.github.io/source-supply/affiliate/): $147 Compass Stripe checkout. FTC-disclosed. Never a reused hop.
 - [Outbound Lead Pack](https://sespear86.github.io/source-supply/leads/): $197 Quill Stripe checkout. Drafts only — never sends.
 - [Compare live offers](https://sespear86.github.io/source-supply/compare/): Pulse $19/mo, Atlas $79, Docket $179, Tender $249
 - [Overnight Research Brief](https://sespear86.github.io/source-supply/brief/): $79 Atlas Stripe checkout. Not securities, medical, or legal advice.

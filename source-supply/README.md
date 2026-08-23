@@ -15,6 +15,7 @@ Not affiliated with xAI.
 | Vendor Standing Pack | Docket | $179 | [Stripe](https://buy.stripe.com/8x228jdz5blzdtn85R2Nq0c) · [page](https://sespear86.github.io/source-supply/vendor/) |
 | RFP Draft Pack | Tender | $249 | [Stripe](https://buy.stripe.com/bJe8wH3Yv75j893fyj2Nq0b) · [page](https://sespear86.github.io/source-supply/rfp/) |
 | Outbound Lead Pack | Quill | $197 | [Stripe](https://buy.stripe.com/14AdR1gLh61f4WR1Ht2Nq01) · [page](https://sespear86.github.io/source-supply/leads/) |
+| Affiliate Desk Setup | Compass | $147 | [Stripe](https://buy.stripe.com/6oU00b66Dahv1KFdqb2Nq08) · [page](https://sespear86.github.io/source-supply/affiliate/) |
 
 Vendor standing and RFP drafts are **not legal advice**. Tender never submits a bid. Atlas never gives securities, medical, or legal advice.
 
