@@ -20,6 +20,7 @@ Not affiliated with xAI.
 | Paid Media Monitor | Beacon | $197/mo | [Stripe](https://buy.stripe.com/14AcMXcv1gFTexr4TF2Nq05) · [page](https://sespear86.github.io/source-supply/ads/) |
 | Inbox and Ops Desk | Ledger | $297/mo | [Stripe](https://buy.stripe.com/7sY6oz9iP4XbblfadZ2Nq03) · [page](https://sespear86.github.io/source-supply/inbox/) |
 | Churn Win-back Desk | Ember | $297/mo | [Stripe](https://buy.stripe.com/bJe5kvbqXcpD0GB0Dp2Nq07) · [page](https://sespear86.github.io/source-supply/churn/) |
+| Support Follow-up Retainer | Anchor | $197/mo | [Stripe](https://buy.stripe.com/7sY9AL1QngFTcpj85R2Nq09) · [page](https://sespear86.github.io/source-supply/support/) |
 
 Vendor standing and RFP drafts are **not legal advice**. Tender never submits a bid. Atlas never gives securities, medical, or legal advice.
 

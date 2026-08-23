@@ -5,8 +5,15 @@
   <link href="https://sespear86.github.io/source-supply/feed.atom" rel="self"/>
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <id>https://sespear86.github.io/source-supply/feed.atom</id>
-  <updated>2026-08-23T07:32:00Z</updated>
+  <updated>2026-08-23T07:36:00Z</updated>
   <subtitle>Live legal Source Supply digital goods with Stripe checkout. QA-pass paid copies, not previews.</subtitle>
+  <entry>
+    <title>Support Follow-up Retainer — Pay Anchor $197/mo</title>
+    <link href="https://sespear86.github.io/source-supply/support/"/>
+    <id>https://sespear86.github.io/source-supply/support/</id>
+    <updated>2026-08-23T07:36:00Z</updated>
+    <summary>Pay Anchor for a support follow-up retainer, $197/mo via Stripe. Drafts only — never contacts customers. QA-pass paid copy, not a preview.</summary>
+  </entry>
   <entry>
     <title>Churn Win-back Desk — Pay Ember $297/mo</title>
     <link href="https://sespear86.github.io/source-supply/churn/"/>
