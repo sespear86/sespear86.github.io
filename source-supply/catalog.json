@@ -49,6 +49,17 @@
       "buy": "https://sespear86.github.io/source-supply/brief/",
       "checkout": "https://buy.stripe.com/9B63cn7aHexL60Vbi32Nq02",
       "not": "securities, medical, or legal advice"
+    },
+    {
+      "slug": "outbound-lead-pack",
+      "name": "Source Supply Outbound Lead Pack",
+      "specialist": "Quill",
+      "price_usd": 197,
+      "interval": "once",
+      "url": "https://sespear86.github.io/source-supply/streams/outbound-lead-pack/index.html",
+      "buy": "https://sespear86.github.io/source-supply/leads/",
+      "checkout": "https://buy.stripe.com/14AdR1gLh61f4WR1Ht2Nq01",
+      "not": "Quill never sends; drafts only"
     }
   ]
 }
