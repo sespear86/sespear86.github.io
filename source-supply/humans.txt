@@ -10,4 +10,5 @@ Offers: Pulse $19/mo https://sespear86.github.io/source-supply/start/
         Atlas $79 https://sespear86.github.io/source-supply/brief/
         Docket $179 https://sespear86.github.io/source-supply/buy/docket/
         Tender $249 https://sespear86.github.io/source-supply/rfp/
+        Forge $497/mo https://sespear86.github.io/source-supply/engine/
 Policy: Digital goods, no refunds after purchase. QA-pass paid copies, not previews. Not legal advice.

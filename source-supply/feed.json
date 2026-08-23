@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/engine/",
+      "url": "https://sespear86.github.io/source-supply/engine/",
+      "title": "Content Engine — Pay Forge $497/mo",
+      "content_text": "Forge drafts newsletter and social copy. Never publishes. QA-pass paid copy, not a preview. Pay with Stripe $497/mo. Digital goods, no refunds after purchase. Contact sourcesupply@agentmail.to",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T08:10:00Z",
+      "tags": ["forge", "content", "stripe"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/start/",
       "url": "https://sespear86.github.io/source-supply/start/",
       "title": "Start Pulse — Weekly Operator Digest $19/mo",

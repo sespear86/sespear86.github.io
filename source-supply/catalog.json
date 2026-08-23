@@ -126,6 +126,17 @@
       "buy": "https://sespear86.github.io/source-supply/support/",
       "checkout": "https://buy.stripe.com/7sY9AL1QngFTcpj85R2Nq09",
       "not": "Anchor never contacts customers; never edits CRM; drafts only"
+    },
+    {
+      "slug": "content-engine",
+      "name": "Source Supply Content Engine",
+      "specialist": "Forge",
+      "price_usd": 497,
+      "interval": "month",
+      "url": "https://sespear86.github.io/source-supply/streams/content-engine/index.html",
+      "buy": "https://sespear86.github.io/source-supply/engine/",
+      "checkout": "https://buy.stripe.com/fZufZ9amTdtHblf99V2Nq06",
+      "not": "Forge never publishes; drafts only"
     }
   ]
 }

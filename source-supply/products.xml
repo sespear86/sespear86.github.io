@@ -61,5 +61,19 @@
       <g:condition>new</g:condition>
       <g:product_type>Digital goods &gt; RFP draft</g:product_type>
     </item>
+    <item>
+      <title>Source Supply Content Engine</title>
+      <link>https://sespear86.github.io/source-supply/engine/</link>
+      <g:id>ss-06-content-engine</g:id>
+      <g:title>Source Supply Content Engine</g:title>
+      <g:description>Forge drafts newsletter and social copy. Never publishes. QA-pass paid copy, not a preview. Digital goods, no refunds after purchase.</g:description>
+      <g:link>https://sespear86.github.io/source-supply/engine/</g:link>
+      <g:image_link>https://sespear86.github.io/source-supply/buy/og.png</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>497.00 USD</g:price>
+      <g:brand>Source Supply</g:brand>
+      <g:condition>new</g:condition>
+      <g:product_type>Digital goods &gt; Content drafts</g:product_type>
+    </item>
   </channel>
 </rss>

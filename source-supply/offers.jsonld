@@ -63,6 +63,21 @@
         "image": "https://sespear86.github.io/source-supply/buy/og.png",
         "brand": {"@type": "Brand", "name": "Source Supply"}
       }
+    },
+    {
+      "@type": "Offer",
+      "name": "Source Supply Content Engine",
+      "url": "https://sespear86.github.io/source-supply/engine/",
+      "price": "497.00",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock",
+      "itemOffered": {
+        "@type": "Product",
+        "name": "Source Supply Content Engine",
+        "description": "Forge drafts newsletter and social copy. Never publishes. QA-pass paid copy, not a preview.",
+        "image": "https://sespear86.github.io/source-supply/buy/og.png",
+        "brand": {"@type": "Brand", "name": "Source Supply"}
+      }
     }
   ]
 }
