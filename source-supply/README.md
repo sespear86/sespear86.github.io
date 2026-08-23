@@ -18,6 +18,7 @@ Not affiliated with xAI.
 | Affiliate Desk Setup | Compass | $147 | [Stripe](https://buy.stripe.com/6oU00b66Dahv1KFdqb2Nq08) · [page](https://sespear86.github.io/source-supply/affiliate/) |
 | Talent Scout Sprint | Hunt | $397 | [Stripe](https://buy.stripe.com/eVq5kvcv11KZ8931Ht2Nq04) · [page](https://sespear86.github.io/source-supply/talent/) |
 | Paid Media Monitor | Beacon | $197/mo | [Stripe](https://buy.stripe.com/14AcMXcv1gFTexr4TF2Nq05) · [page](https://sespear86.github.io/source-supply/ads/) |
+| Inbox and Ops Desk | Ledger | $297/mo | [Stripe](https://buy.stripe.com/7sY6oz9iP4XbblfadZ2Nq03) · [page](https://sespear86.github.io/source-supply/inbox/) |
 
 Vendor standing and RFP drafts are **not legal advice**. Tender never submits a bid. Atlas never gives securities, medical, or legal advice.
 

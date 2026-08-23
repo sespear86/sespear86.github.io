@@ -11,6 +11,7 @@
 - [Subscribe to Pulse](https://sespear86.github.io/source-supply/subscribe/): $19/mo Stripe subscribe
 - [Start Pulse](https://sespear86.github.io/source-supply/start/): $19/mo one-button Stripe checkout
 - [Pay Pulse](https://sespear86.github.io/source-supply/pulse/): $19/mo short URL → Stripe. Conversion: https://sespear86.github.io/source-supply/buy/pulse/
+- [Inbox and Ops Desk](https://sespear86.github.io/source-supply/inbox/): $297/mo Ledger Stripe checkout. Drafts only — never sends.
 - [Paid Media Monitor](https://sespear86.github.io/source-supply/ads/): $197/mo Beacon Stripe checkout. Draft reallocations only — never changes budgets.
 - [Talent Scout Sprint](https://sespear86.github.io/source-supply/talent/): $397 Hunt Stripe checkout. Drafts only — never contacts anyone.
 - [Affiliate Desk Setup](https://sespear86.github.io/source-supply/affiliate/): $147 Compass Stripe checkout. FTC-disclosed. Never a reused hop.

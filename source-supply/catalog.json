@@ -93,6 +93,17 @@
       "buy": "https://sespear86.github.io/source-supply/ads/",
       "checkout": "https://buy.stripe.com/14AcMXcv1gFTexr4TF2Nq05",
       "not": "Beacon never changes budgets; drafts only"
+    },
+    {
+      "slug": "inbox-ops-desk",
+      "name": "Source Supply Inbox and Ops Desk",
+      "specialist": "Ledger",
+      "price_usd": 297,
+      "interval": "month",
+      "url": "https://sespear86.github.io/source-supply/streams/inbox-ops-desk/index.html",
+      "buy": "https://sespear86.github.io/source-supply/inbox/",
+      "checkout": "https://buy.stripe.com/7sY6oz9iP4XbblfadZ2Nq03",
+      "not": "Ledger never sends; drafts only"
     }
   ]
 }
