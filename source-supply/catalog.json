@@ -38,6 +38,17 @@
       "buy": "https://sespear86.github.io/source-supply/rfp/",
       "checkout": "https://buy.stripe.com/bJe8wH3Yv75j893fyj2Nq0b",
       "not": "legal advice; never submits a bid"
+    },
+    {
+      "slug": "research-brief",
+      "name": "Source Supply Overnight Research Brief",
+      "specialist": "Atlas",
+      "price_usd": 79,
+      "interval": "once",
+      "url": "https://sespear86.github.io/source-supply/streams/research-brief/index.html",
+      "buy": "https://sespear86.github.io/source-supply/brief/",
+      "checkout": "https://buy.stripe.com/9B63cn7aHexL60Vbi32Nq02",
+      "not": "securities, medical, or legal advice"
     }
   ]
 }
