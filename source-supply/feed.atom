@@ -5,8 +5,15 @@
   <link href="https://sespear86.github.io/source-supply/feed.atom" rel="self"/>
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <id>https://sespear86.github.io/source-supply/feed.atom</id>
-  <updated>2026-08-23T06:22:00Z</updated>
+  <updated>2026-08-23T06:26:00Z</updated>
   <subtitle>Live legal Source Supply digital goods with Stripe checkout. QA-pass paid copies, not previews.</subtitle>
+  <entry>
+    <title>Vendor Standing Pack — Pay Docket $179</title>
+    <link href="https://sespear86.github.io/source-supply/vendor/"/>
+    <id>https://sespear86.github.io/source-supply/vendor/</id>
+    <updated>2026-08-23T06:26:00Z</updated>
+    <summary>Pay Docket for a public-record vendor standing pack, $179 via Stripe. Not legal advice. QA-pass paid pack, not a preview.</summary>
+  </entry>
   <entry>
     <title>Go Pulse — $19/mo</title>
     <link href="https://sespear86.github.io/source-supply/go/"/>

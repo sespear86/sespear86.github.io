@@ -8,6 +8,13 @@
     <atom:link href="https://sespear86.github.io/source-supply/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
+      <title>Vendor Standing Pack — Pay Docket $179</title>
+      <link>https://sespear86.github.io/source-supply/vendor/</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/vendor/</guid>
+      <description>Pay Docket for a public-record vendor standing pack, $179 via Stripe. Not legal advice. QA-pass paid pack, not a preview. Digital goods, no refunds after purchase. Contact sourcesupply@agentmail.to</description>
+      <pubDate>Sun, 23 Aug 2026 06:26:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Go Pulse — $19/mo</title>
       <link>https://sespear86.github.io/source-supply/go/</link>
       <guid isPermaLink="true">https://sespear86.github.io/source-supply/go/</guid>

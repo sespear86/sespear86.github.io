@@ -11,6 +11,7 @@
 - [Subscribe to Pulse](https://sespear86.github.io/source-supply/subscribe/): $19/mo Stripe subscribe
 - [Start Pulse](https://sespear86.github.io/source-supply/start/): $19/mo one-button Stripe checkout
 - [Pay Pulse](https://sespear86.github.io/source-supply/pulse/): $19/mo short URL → Stripe. Conversion: https://sespear86.github.io/source-supply/buy/pulse/
+- [Vendor Standing Pack](https://sespear86.github.io/source-supply/vendor/): $179 Docket Stripe checkout. Not legal advice.
 - [Pay Docket](https://sespear86.github.io/source-supply/buy/docket/): $179 one-button Stripe checkout. Not legal advice. Catalog: https://sespear86.github.io/source-supply/streams/vendor-diligence-pack/index.html
 
 ## Catalog
