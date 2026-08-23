@@ -5,8 +5,15 @@
   <link href="https://sespear86.github.io/source-supply/feed.atom" rel="self"/>
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <id>https://sespear86.github.io/source-supply/feed.atom</id>
-  <updated>2026-08-23T10:15:00Z</updated>
+  <updated>2026-08-23T10:25:00Z</updated>
   <subtitle>Live legal Source Supply digital goods with Stripe checkout. QA-pass paid copies, not previews.</subtitle>
+  <entry>
+    <title>What do you need? — job chooser for four live Stripe offers</title>
+    <link href="https://sespear86.github.io/source-supply/need/"/>
+    <id>https://sespear86.github.io/source-supply/need/</id>
+    <updated>2026-08-23T10:25:00Z</updated>
+    <summary>Pick by job: weekly digest, overnight brief, vendor standing, or RFP draft. Inspect the free method sample first.</summary>
+  </entry>
   <entry>
     <title>RFP Draft Sample — how Tender drafts, never submits</title>
     <link href="https://sespear86.github.io/source-supply/proposal/"/>

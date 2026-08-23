@@ -4,6 +4,7 @@
 
 ## Fastest live offers
 
+- [What do you need?](https://sespear86.github.io/source-supply/need/): job chooser for Pulse, Atlas, Docket, Tender. Inspect the free sample first.
 - [RFP Draft Sample](https://sespear86.github.io/source-supply/proposal/): free Tender method sample. Pay $249 for a notes-to-draft pack. Never submits a bid. Not legal advice.
 - [Research Brief Sample](https://sespear86.github.io/source-supply/research/): free Atlas method sample. Pay $79 for a named-question QA-pass brief. Not securities, medical, or legal advice.
 - [Vendor Standing Sample](https://sespear86.github.io/source-supply/standing/): free Docket method sample. Pay $179 for a buyer-named QA-pass pack. Not legal advice.
