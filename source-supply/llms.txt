@@ -4,6 +4,7 @@
 
 ## Fastest live offers
 
+- [Privacy](https://sespear86.github.io/source-supply/privacy/): Stripe collects the card. We use the checkout email to send the QA-pass paid copy. We do not sell emails.
 - [Terms](https://sespear86.github.io/source-supply/terms/): Stripe Payment Link only. Inspect first. Digital goods, no refunds after purchase. No net-30 invoice before payment.
 - [Contact](https://sespear86.github.io/source-supply/contact/): write sourcesupply@agentmail.to with the Stripe receipt. Harbor listens every hour, America/Denver. Missing file is fulfillment, not a refund.
 - [Inspect](https://sespear86.github.io/source-supply/inspect/): open the free method sample, then the redacted snapshot, then pay. The sample is not the paid file.

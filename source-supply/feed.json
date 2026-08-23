@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/privacy/",
+      "url": "https://sespear86.github.io/source-supply/privacy/",
+      "title": "Privacy — Stripe collects the card; we email the paid file",
+      "content_text": "Stripe processes the card. We use the checkout email to email the QA-pass paid copy. We do not sell emails. Static GitHub Pages catalog. Seller: L.o.t.S. Enterprises LLC",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T12:50:00Z",
+      "tags": ["privacy", "fulfillment"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/terms/",
       "url": "https://sespear86.github.io/source-supply/terms/",
       "title": "Terms — digital goods, Stripe Payment Link, inspect first",
