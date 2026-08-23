@@ -8,6 +8,13 @@
     <atom:link href="https://sespear86.github.io/source-supply/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
+      <title>Email — Stripe sends the receipt; Harbor emails the paid file</title>
+      <link>https://sespear86.github.io/source-supply/email/</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/email/</guid>
+      <description>After Stripe, two emails: Stripe’s receipt, then Harbor’s QA-pass paid file. The receipt is not the paid copy. Seller: L.o.t.S. Enterprises LLC</description>
+      <pubDate>Sun, 23 Aug 2026 13:20:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Cancel — Pulse is a Stripe subscription; Atlas, Docket, Tender are one-time</title>
       <link>https://sespear86.github.io/source-supply/cancel/</link>
       <guid isPermaLink="true">https://sespear86.github.io/source-supply/cancel/</guid>

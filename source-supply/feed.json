@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/email/",
+      "url": "https://sespear86.github.io/source-supply/email/",
+      "title": "Email — Stripe sends the receipt; Harbor emails the paid file",
+      "content_text": "After Stripe, two emails: Stripe’s receipt, then Harbor’s QA-pass paid file. The receipt is not the paid copy. Seller: L.o.t.S. Enterprises LLC",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T13:20:00Z",
+      "tags": ["email", "fulfillment"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/cancel/",
       "url": "https://sespear86.github.io/source-supply/cancel/",
       "title": "Cancel — Pulse is a Stripe subscription; Atlas, Docket, Tender are one-time",
