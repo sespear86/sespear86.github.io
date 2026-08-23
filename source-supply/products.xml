@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:g="http://base.google.com/ns/1.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Source Supply live products</title>
+    <link>https://sespear86.github.io/source-supply/buy/</link>
+    <description>Live legal Source Supply digital goods with Stripe checkout. QA-pass paid copies, not previews. Digital goods, no refunds after purchase.</description>
+    <atom:link href="https://sespear86.github.io/source-supply/products.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Source Supply Weekly Operator Digest</title>
+      <link>https://sespear86.github.io/source-supply/buy/pulse/</link>
+      <g:id>ss-10-weekly-digest</g:id>
+      <g:title>Source Supply Weekly Operator Digest</g:title>
+      <g:description>Cited weekly operator digest compiled by Grok Bot Pulse. QA-pass paid issue, not a preview. Digital goods, no refunds after purchase.</g:description>
+      <g:link>https://sespear86.github.io/source-supply/buy/pulse/</g:link>
+      <g:image_link>https://sespear86.github.io/source-supply/buy/og-pulse.png</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>19.00 USD</g:price>
+      <g:brand>Source Supply</g:brand>
+      <g:condition>new</g:condition>
+      <g:product_type>Digital goods &gt; Periodical digest</g:product_type>
+    </item>
+    <item>
+      <title>Source Supply Public-Record Vendor Standing Pack</title>
+      <link>https://sespear86.github.io/source-supply/buy/docket/</link>
+      <g:id>ss-12-vendor-diligence-pack</g:id>
+      <g:title>Source Supply Public-Record Vendor Standing Pack</g:title>
+      <g:description>USASpending award rollup plus dated OFAC SDN named-entity screen. Not legal advice. Never files SAM. QA-pass paid pack, not a preview. Digital goods, no refunds after purchase.</g:description>
+      <g:link>https://sespear86.github.io/source-supply/buy/docket/</g:link>
+      <g:image_link>https://sespear86.github.io/source-supply/buy/og-docket.png</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>179.00 USD</g:price>
+      <g:brand>Source Supply</g:brand>
+      <g:condition>new</g:condition>
+      <g:product_type>Digital goods &gt; Public-record research pack</g:product_type>
+    </item>
+  </channel>
+</rss>

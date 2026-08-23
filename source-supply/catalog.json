@@ -13,6 +13,7 @@
       "interval": "month",
       "url": "https://sespear86.github.io/source-supply/streams/weekly-digest/index.html",
       "buy": "https://sespear86.github.io/source-supply/buy/pulse/",
+      "short": "https://sespear86.github.io/source-supply/pulse/",
       "checkout": "https://buy.stripe.com/4gM14f66D3T79d7adZ2Nq0a"
     },
     {
