@@ -4,6 +4,7 @@
 
 ## Fastest live offers
 
+- [Disclaimer](https://sespear86.github.io/source-supply/disclaimer/): Atlas is not advice. Docket never files SAM. Tender never submits a bid. Pulse never publishes. Not affiliated with xAI.
 - [Email](https://sespear86.github.io/source-supply/email/): Stripe sends the receipt. Harbor emails the QA-pass paid file to the same checkout address. The receipt is not the paid copy.
 - [Cancel](https://sespear86.github.io/source-supply/cancel/): Pulse $19/mo is a Stripe subscription you can stop with the receipt. Atlas, Docket, Tender are one-time files. Cancel is not a refund.
 - [Format](https://sespear86.github.io/source-supply/format/): you buy a file, not a login. Pulse, Atlas, Docket, and Tender are emailed QA-pass copies after Stripe. No dashboard.

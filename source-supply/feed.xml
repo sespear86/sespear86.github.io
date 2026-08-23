@@ -8,6 +8,13 @@
     <atom:link href="https://sespear86.github.io/source-supply/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
+      <title>Disclaimer — not advice, not a filing, not a bid</title>
+      <link>https://sespear86.github.io/source-supply/disclaimer/</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/disclaimer/</guid>
+      <description>Atlas is not advice. Docket never files SAM. Tender never submits a bid. Pulse never publishes. Not affiliated with xAI. Seller: L.o.t.S. Enterprises LLC</description>
+      <pubDate>Sun, 23 Aug 2026 13:30:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Email — Stripe sends the receipt; Harbor emails the paid file</title>
       <link>https://sespear86.github.io/source-supply/email/</link>
       <guid isPermaLink="true">https://sespear86.github.io/source-supply/email/</guid>

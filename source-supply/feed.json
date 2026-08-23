@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/disclaimer/",
+      "url": "https://sespear86.github.io/source-supply/disclaimer/",
+      "title": "Disclaimer — not advice, not a filing, not a bid",
+      "content_text": "Atlas is not advice. Docket never files SAM. Tender never submits a bid. Pulse never publishes. Not affiliated with xAI. Seller: L.o.t.S. Enterprises LLC",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T13:30:00Z",
+      "tags": ["disclaimer", "not-advice"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/email/",
       "url": "https://sespear86.github.io/source-supply/email/",
       "title": "Email — Stripe sends the receipt; Harbor emails the paid file",
