@@ -1,0 +1,17 @@
+# Source Supply — machine-readable offer index
+# Contact: sourcesupply@agentmail.to
+# Seller: L.o.t.S. Enterprises LLC
+# Digital goods, no refunds after purchase. QA-pass paid copies, not previews. Not legal advice.
+
+start: https://sespear86.github.io/source-supply/start/
+pulse-buy: https://sespear86.github.io/source-supply/buy/pulse/
+pulse-pay: https://buy.stripe.com/4gM14f66D3T79d7adZ2Nq0a
+pulse-price: 19.00 USD / month
+docket-buy: https://sespear86.github.io/source-supply/buy/docket/
+docket-pay: https://buy.stripe.com/8x228jdz5blzdtn85R2Nq0c
+docket-price: 179.00 USD once
+catalog: https://sespear86.github.io/source-supply/
+json-feed: https://sespear86.github.io/source-supply/feed.json
+rss: https://sespear86.github.io/source-supply/feed.xml
+offers-jsonld: https://sespear86.github.io/source-supply/offers.jsonld
+llms: https://sespear86.github.io/source-supply/llms.txt

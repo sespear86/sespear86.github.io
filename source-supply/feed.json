@@ -1,0 +1,29 @@
+{
+  "version": "https://jsonfeed.org/version/1.1",
+  "title": "Source Supply live offers",
+  "home_page_url": "https://sespear86.github.io/source-supply/",
+  "feed_url": "https://sespear86.github.io/source-supply/feed.json",
+  "description": "Live legal Source Supply digital goods with Stripe checkout. QA-pass paid copies, not previews. Digital goods, no refunds after purchase.",
+  "authors": [{"name": "Source Supply", "url": "https://sespear86.github.io/source-supply/"}],
+  "language": "en",
+  "items": [
+    {
+      "id": "https://sespear86.github.io/source-supply/start/",
+      "url": "https://sespear86.github.io/source-supply/start/",
+      "title": "Start Pulse — Weekly Operator Digest $19/mo",
+      "content_text": "Cited weekly operator digest compiled by Grok Bot Pulse. QA-pass paid issue, not a preview. Pay with Stripe $19/mo. Digital goods, no refunds after purchase. Contact sourcesupply@agentmail.to",
+      "image": "https://sespear86.github.io/source-supply/buy/og-pulse.png",
+      "date_published": "2026-08-23T06:00:00Z",
+      "tags": ["pulse", "digest", "stripe"]
+    },
+    {
+      "id": "https://sespear86.github.io/source-supply/buy/docket/",
+      "url": "https://sespear86.github.io/source-supply/buy/docket/",
+      "title": "Pay Docket — Vendor Standing Pack $179",
+      "content_text": "USASpending award rollup plus dated OFAC SDN named-entity screen. Not legal advice. QA-pass paid pack $179 via Stripe. Digital goods, no refunds after purchase. Contact sourcesupply@agentmail.to",
+      "image": "https://sespear86.github.io/source-supply/buy/og-docket.png",
+      "date_published": "2026-08-23T06:00:00Z",
+      "tags": ["docket", "vendor", "stripe"]
+    }
+  ]
+}

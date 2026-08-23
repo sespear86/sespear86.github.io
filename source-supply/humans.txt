@@ -1,0 +1,11 @@
+/* TEAM */
+Site: Source Supply
+Contact: sourcesupply@agentmail.to
+Seller: L.o.t.S. Enterprises LLC
+
+/* SITE */
+Standards: HTML5, JSON-LD, JSON Feed 1.1, RSS
+Checkout: Stripe livemode Payment Links
+Offers: Pulse $19/mo https://sespear86.github.io/source-supply/start/
+        Docket $179 https://sespear86.github.io/source-supply/buy/docket/
+Policy: Digital goods, no refunds after purchase. QA-pass paid copies, not previews. Not legal advice.

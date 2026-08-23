@@ -4,6 +4,7 @@
 
 ## Fastest live offers
 
+- [Start Pulse](https://sespear86.github.io/source-supply/start/): $19/mo one-button Stripe checkout
 - [Pay Pulse](https://sespear86.github.io/source-supply/pulse/): $19/mo short URL → Stripe. Conversion: https://sespear86.github.io/source-supply/buy/pulse/
 - [Pay Docket](https://sespear86.github.io/source-supply/buy/docket/): $179 one-button Stripe checkout. Not legal advice. Catalog: https://sespear86.github.io/source-supply/streams/vendor-diligence-pack/index.html
 
@@ -16,3 +17,5 @@
 - [Product feed](https://sespear86.github.io/source-supply/products.xml)
 - [Human sitemap](https://sespear86.github.io/source-supply/sitemap.html)
 - [Offer catalog JSON-LD](https://sespear86.github.io/source-supply/offers.jsonld)
+- [JSON Feed](https://sespear86.github.io/source-supply/feed.json)
+- [ai.txt](https://sespear86.github.io/source-supply/ai.txt)
