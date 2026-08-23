@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/wallet/",
+      "url": "https://sespear86.github.io/source-supply/wallet/",
+      "title": "Wallet — Apple Pay, Google Pay, or Link on Stripe’s hosted page",
+      "content_text": "Pay with Apple Pay, Google Pay, Link, or a card on Stripe’s hosted Payment Link. Source Supply never hosts a wallet button. Pulse $19/mo, Atlas $79, Docket $179, Tender $249. Seller: L.o.t.S. Enterprises LLC",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T15:45:00Z",
+      "tags": ["wallet", "checkout"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/replace/",
       "url": "https://sespear86.github.io/source-supply/replace/",
       "title": "Replace — Harbor resends the QA-pass file if it fails",
