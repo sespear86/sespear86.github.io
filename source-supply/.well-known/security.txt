@@ -1,0 +1,5 @@
+Contact: mailto:sourcesupply@agentmail.to
+Preferred-Languages: en
+Canonical: https://sespear86.github.io/source-supply/.well-known/security.txt
+Expires: 2027-08-23T00:00:00.000Z
+Policy: https://sespear86.github.io/source-supply/buy/

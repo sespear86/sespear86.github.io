@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "OfferCatalog",
+  "name": "Source Supply live offers",
+  "url": "https://sespear86.github.io/source-supply/",
+  "itemListElement": [
+    {
+      "@type": "Offer",
+      "name": "Source Supply Weekly Operator Digest",
+      "url": "https://sespear86.github.io/source-supply/buy/pulse/",
+      "price": "19.00",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock",
+      "itemOffered": {
+        "@type": "Product",
+        "name": "Source Supply Weekly Operator Digest",
+        "description": "Cited weekly operator digest compiled by Grok Bot Pulse. QA-pass paid copy, not a preview.",
+        "image": "https://sespear86.github.io/source-supply/buy/og-pulse.png",
+        "brand": {"@type": "Brand", "name": "Source Supply"}
+      }
+    },
+    {
+      "@type": "Offer",
+      "name": "Source Supply Public-Record Vendor Standing Pack",
+      "url": "https://sespear86.github.io/source-supply/buy/docket/",
+      "price": "179.00",
+      "priceCurrency": "USD",
+      "availability": "https://schema.org/InStock",
+      "itemOffered": {
+        "@type": "Product",
+        "name": "Source Supply Public-Record Vendor Standing Pack",
+        "description": "USASpending award rollup plus dated OFAC SDN named-entity screen. Not legal advice. QA-pass paid copy, not a preview.",
+        "image": "https://sespear86.github.io/source-supply/buy/og-docket.png",
+        "brand": {"@type": "Brand", "name": "Source Supply"}
+      }
+    }
+  ]
+}

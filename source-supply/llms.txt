@@ -14,3 +14,5 @@
 - [RSS](https://sespear86.github.io/source-supply/feed.xml)
 - [JSON](https://sespear86.github.io/source-supply/catalog.json)
 - [Product feed](https://sespear86.github.io/source-supply/products.xml)
+- [Human sitemap](https://sespear86.github.io/source-supply/sitemap.html)
+- [Offer catalog JSON-LD](https://sespear86.github.io/source-supply/offers.jsonld)
