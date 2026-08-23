@@ -4,6 +4,7 @@
 
 ## Fastest live offers
 
+- [Delivery](https://sespear86.github.io/source-supply/delivery/): after Stripe, the QA-pass paid copy is emailed to the address you give Stripe. Missing file is fulfillment, not a refund.
 - [Refunds](https://sespear86.github.io/source-supply/refunds/): digital goods, no refunds after purchase. Inspect the free sample first. Fulfillment of a missing file is not a refund of a delivered copy.
 - [What you own after you pay](https://sespear86.github.io/source-supply/owned/): you own the QA-pass paid copy. Digital goods, no refunds.
 - [QA-pass vs snapshot](https://sespear86.github.io/source-supply/quality/): inspect quality before you pay. Method sample, redacted snapshot, then QA-pass paid copy.

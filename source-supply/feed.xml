@@ -8,6 +8,13 @@
     <atom:link href="https://sespear86.github.io/source-supply/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
+      <title>Delivery — how the paid file arrives after Stripe</title>
+      <link>https://sespear86.github.io/source-supply/delivery/</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/delivery/</guid>
+      <description>After Stripe succeeds, the QA-pass paid copy is emailed to the address you give Stripe. Inspect the free sample first. Missing file is fulfillment, not a refund. Contact sourcesupply@agentmail.to</description>
+      <pubDate>Sun, 23 Aug 2026 11:15:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Refunds — digital goods, inspect first, then pay</title>
       <link>https://sespear86.github.io/source-supply/refunds/</link>
       <guid isPermaLink="true">https://sespear86.github.io/source-supply/refunds/</guid>
