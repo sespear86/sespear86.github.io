@@ -8,6 +8,13 @@
     <atom:link href="https://sespear86.github.io/source-supply/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
+      <title>After you pay — Stripe succeeds, then Harbor emails the file</title>
+      <link>https://sespear86.github.io/source-supply/after/</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/after/</guid>
+      <description>The sequence after Stripe: receipt, then the QA-pass paid file. Pulse $19/mo, Atlas $79, Docket $179, Tender $249. Seller: L.o.t.S. Enterprises LLC</description>
+      <pubDate>Sun, 23 Aug 2026 14:10:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Contents — section list of each paid file</title>
       <link>https://sespear86.github.io/source-supply/contents/</link>
       <guid isPermaLink="true">https://sespear86.github.io/source-supply/contents/</guid>

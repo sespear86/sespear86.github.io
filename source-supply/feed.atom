@@ -5,8 +5,15 @@
   <link href="https://sespear86.github.io/source-supply/feed.atom" rel="self"/>
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <id>https://sespear86.github.io/source-supply/feed.atom</id>
-  <updated>2026-08-23T14:00:00Z</updated>
+  <updated>2026-08-23T14:10:00Z</updated>
   <subtitle>Live legal Source Supply digital goods with Stripe checkout. QA-pass paid copies, not previews.</subtitle>
+  <entry>
+    <title>After you pay — Stripe succeeds, then Harbor emails the file</title>
+    <link href="https://sespear86.github.io/source-supply/after/"/>
+    <id>https://sespear86.github.io/source-supply/after/</id>
+    <updated>2026-08-23T14:10:00Z</updated>
+    <summary>The sequence after Stripe: receipt, then the QA-pass paid file. No login.</summary>
+  </entry>
   <entry>
     <title>Contents — section list of each paid file</title>
     <link href="https://sespear86.github.io/source-supply/contents/"/>
