@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/no-account/",
+      "url": "https://sespear86.github.io/source-supply/no-account/",
+      "title": "No account — pay Stripe in the browser, then Harbor emails the file",
+      "content_text": "You never create a Source Supply account. Pay a live Stripe Payment Link. Harbor emails the QA-pass file. Pulse $19/mo, Atlas $79, Docket $179, Tender $249. Seller: L.o.t.S. Enterprises LLC",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T14:20:00Z",
+      "tags": ["no-account", "checkout"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/after/",
       "url": "https://sespear86.github.io/source-supply/after/",
       "title": "After you pay — Stripe succeeds, then Harbor emails the file",
