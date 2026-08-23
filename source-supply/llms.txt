@@ -4,6 +4,7 @@
 
 ## Fastest live offers
 
+- [Open the file](https://sespear86.github.io/source-supply/open/): Harbor emails the QA-pass paid copy. Open the attachment. No dashboard. The Stripe receipt is not the paid file.
 - [No account](https://sespear86.github.io/source-supply/no-account/): you never create a Source Supply account. Pay a live Stripe Payment Link in the browser. Harbor emails the QA-pass file.
 - [After you pay](https://sespear86.github.io/source-supply/after/): Stripe succeeds, then Harbor emails the QA-pass file. No login. The receipt is not the paid copy.
 - [Contents](https://sespear86.github.io/source-supply/contents/): section list of each paid file. Pulse $19/mo, Atlas $79, Docket $179, Tender $249. The free sample is not the paid file.
