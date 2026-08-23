@@ -4,6 +4,7 @@
 
 ## Fastest live offers
 
+- [Cancel](https://sespear86.github.io/source-supply/cancel/): Pulse $19/mo is a Stripe subscription you can stop with the receipt. Atlas, Docket, Tender are one-time files. Cancel is not a refund.
 - [Format](https://sespear86.github.io/source-supply/format/): you buy a file, not a login. Pulse, Atlas, Docket, and Tender are emailed QA-pass copies after Stripe. No dashboard.
 - [Security](https://sespear86.github.io/source-supply/security/): Stripe holds the card. The QA-pass paid copy is emailed after checkout, not posted as a public download. Harbor does not click Pay.
 - [Privacy](https://sespear86.github.io/source-supply/privacy/): Stripe collects the card. We use the checkout email to send the QA-pass paid copy. We do not sell emails.

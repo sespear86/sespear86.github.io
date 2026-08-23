@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/cancel/",
+      "url": "https://sespear86.github.io/source-supply/cancel/",
+      "title": "Cancel — Pulse is a Stripe subscription; Atlas, Docket, Tender are one-time",
+      "content_text": "Stop Pulse $19/mo with the Stripe receipt. Atlas, Docket, Tender are one-time files. Cancel is not a refund. Seller: L.o.t.S. Enterprises LLC",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T13:10:00Z",
+      "tags": ["cancel", "subscription"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/format/",
       "url": "https://sespear86.github.io/source-supply/format/",
       "title": "Format — you buy a file, not a login",
