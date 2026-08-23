@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/scope/",
+      "url": "https://sespear86.github.io/source-supply/scope/",
+      "title": "Scope — what is in the paid file, and what is not",
+      "content_text": "You buy a QA-pass file. Pulse never publishes. Atlas is not advice. Docket never files SAM. Tender never submits a bid. Inspect the free sample first. Contact sourcesupply@agentmail.to",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T12:05:00Z",
+      "tags": ["scope", "in-out"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/invoice/",
       "url": "https://sespear86.github.io/source-supply/invoice/",
       "title": "Invoice — Stripe receipt for expense and AP",

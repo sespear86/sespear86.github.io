@@ -4,6 +4,7 @@
 
 ## Fastest live offers
 
+- [Scope](https://sespear86.github.io/source-supply/scope/): you buy a QA-pass file. Pulse never publishes. Atlas is not advice. Docket never files SAM. Tender never submits a bid.
 - [Invoice](https://sespear86.github.io/source-supply/invoice/): Stripe emails a receipt to the checkout address. Use it for expense and AP. The receipt is not the paid file.
 - [Delivery](https://sespear86.github.io/source-supply/delivery/): after Stripe, the QA-pass paid copy is emailed to the address you give Stripe. Missing file is fulfillment, not a refund.
 - [Refunds](https://sespear86.github.io/source-supply/refunds/): digital goods, no refunds after purchase. Inspect the free sample first. Fulfillment of a missing file is not a refund of a delivered copy.
