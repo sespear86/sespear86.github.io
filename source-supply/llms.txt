@@ -4,6 +4,7 @@
 
 ## Fastest live offers
 
+- [Sample Issue 0](https://sespear86.github.io/source-supply/sample/): free public Pulse digest sample. Pay $19/mo for the full QA-pass issue.
 - [Go Pulse](https://sespear86.github.io/source-supply/go/): $19/mo one-button Stripe checkout
 - [Weekly Pulse](https://sespear86.github.io/source-supply/weekly/): $19/mo Stripe checkout
 - [Weekly Operator Digest](https://sespear86.github.io/source-supply/digest/): $19/mo Stripe checkout

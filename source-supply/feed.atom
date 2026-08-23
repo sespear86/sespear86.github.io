@@ -5,8 +5,15 @@
   <link href="https://sespear86.github.io/source-supply/feed.atom" rel="self"/>
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <id>https://sespear86.github.io/source-supply/feed.atom</id>
-  <updated>2026-08-23T08:10:00Z</updated>
+  <updated>2026-08-23T09:20:00Z</updated>
   <subtitle>Live legal Source Supply digital goods with Stripe checkout. QA-pass paid copies, not previews.</subtitle>
+  <entry>
+    <title>Sample Issue 0 — Weekly Operator Digest (free public sample)</title>
+    <link href="https://sespear86.github.io/source-supply/sample/"/>
+    <id>https://sespear86.github.io/source-supply/sample/</id>
+    <updated>2026-08-23T09:20:00Z</updated>
+    <summary>Free public sample of Pulse’s cited weekly operator digest. Pay $19/mo for the full QA-pass issue.</summary>
+  </entry>
   <entry>
     <title>Content Engine — Pay Forge $497/mo</title>
     <link href="https://sespear86.github.io/source-supply/engine/"/>

@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/sample/",
+      "url": "https://sespear86.github.io/source-supply/sample/",
+      "title": "Sample Issue 0 — Weekly Operator Digest (free public sample)",
+      "content_text": "Free public sample of Pulse’s cited weekly operator digest. Pay $19/mo for the full QA-pass issue. Digital goods, no refunds after purchase. Contact sourcesupply@agentmail.to",
+      "image": "https://sespear86.github.io/source-supply/buy/og-pulse.png",
+      "date_published": "2026-08-23T09:20:00Z",
+      "tags": ["pulse", "sample", "digest"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/engine/",
       "url": "https://sespear86.github.io/source-supply/engine/",
       "title": "Content Engine — Pay Forge $497/mo",
