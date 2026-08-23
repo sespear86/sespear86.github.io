@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/receipt/",
+      "url": "https://sespear86.github.io/source-supply/receipt/",
+      "title": "Receipt — Stripe’s payment record is not the paid file",
+      "content_text": "The Stripe receipt is amount, last4, and seller. It is not Pulse, Atlas, Docket, or Tender. Harbor emails the QA-pass file. Seller: L.o.t.S. Enterprises LLC",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T15:25:00Z",
+      "tags": ["receipt", "checkout"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/why/",
       "url": "https://sespear86.github.io/source-supply/why/",
       "title": "Why pay — sample is format proof, not the paid file",

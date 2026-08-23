@@ -4,6 +4,7 @@
 
 ## Fastest live offers
 
+- [Receipt](https://sespear86.github.io/source-supply/receipt/): Stripe’s payment record is amount, last4, and seller. It is not the QA-pass file. Harbor’s attachment is the product.
 - [Why pay](https://sespear86.github.io/source-supply/why/): the free sample proves format and sourcing. The paid file is that SKU’s QA-pass copy. Sample is not a substitute.
 - [Card](https://sespear86.github.io/source-supply/card/): enter the card on Stripe’s hosted Payment Link. Source Supply never shows a card form. Harbor emails the QA-pass file.
 - [Open the file](https://sespear86.github.io/source-supply/open/): Harbor emails the QA-pass paid copy. Open the attachment. No dashboard. The Stripe receipt is not the paid file.
