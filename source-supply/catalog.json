@@ -104,6 +104,17 @@
       "buy": "https://sespear86.github.io/source-supply/inbox/",
       "checkout": "https://buy.stripe.com/7sY6oz9iP4XbblfadZ2Nq03",
       "not": "Ledger never sends; drafts only"
+    },
+    {
+      "slug": "churn-winback",
+      "name": "Source Supply Churn Win-back Desk",
+      "specialist": "Ember",
+      "price_usd": 297,
+      "interval": "month",
+      "url": "https://sespear86.github.io/source-supply/streams/churn-winback/index.html",
+      "buy": "https://sespear86.github.io/source-supply/churn/",
+      "checkout": "https://buy.stripe.com/bJe5kvbqXcpD0GB0Dp2Nq07",
+      "not": "existing list only; never cold; never send without approval"
     }
   ]
 }
