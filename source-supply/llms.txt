@@ -4,6 +4,7 @@
 
 ## Fastest live offers
 
+- [Spam](https://sespear86.github.io/source-supply/spam/): Harbor’s QA-pass file may land in junk. Check spam before writing Harbor. The Stripe receipt is not the product.
 - [Wallet](https://sespear86.github.io/source-supply/wallet/): Apple Pay, Google Pay, or Link run on Stripe’s hosted Payment Link. Source Supply never hosts a wallet button.
 - [Replace](https://sespear86.github.io/source-supply/replace/): if the emailed copy is corrupt, unreadable, or QA-fail, Harbor resends the same SKU. Not a refund.
 - [Receipt](https://sespear86.github.io/source-supply/receipt/): Stripe’s payment record is amount, last4, and seller. It is not the QA-pass file. Harbor’s attachment is the product.

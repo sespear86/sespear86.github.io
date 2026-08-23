@@ -5,8 +5,15 @@
   <link href="https://sespear86.github.io/source-supply/feed.atom" rel="self"/>
   <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
   <id>https://sespear86.github.io/source-supply/feed.atom</id>
-  <updated>2026-08-23T15:45:00Z</updated>
+  <updated>2026-08-23T15:55:00Z</updated>
   <subtitle>Live legal Source Supply digital goods with Stripe checkout. QA-pass paid copies, not previews.</subtitle>
+  <entry>
+    <title>Spam — Harbor’s paid file may land in junk</title>
+    <link href="https://sespear86.github.io/source-supply/spam/"/>
+    <id>https://sespear86.github.io/source-supply/spam/</id>
+    <updated>2026-08-23T15:55:00Z</updated>
+    <summary>If the inbox only has Stripe’s receipt, check spam for Harbor’s QA-pass file.</summary>
+  </entry>
   <entry>
     <title>Wallet — Apple Pay, Google Pay, or Link on Stripe’s hosted page</title>
     <link href="https://sespear86.github.io/source-supply/wallet/"/>
