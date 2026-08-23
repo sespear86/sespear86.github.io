@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/hours/",
+      "url": "https://sespear86.github.io/source-supply/hours/",
+      "title": "Hours — when the paid file is emailed after Stripe",
+      "content_text": "After Stripe succeeds, the QA-pass paid copy is emailed. Harbor listens every hour, America/Denver. Missing file is fulfillment, not a refund. Contact sourcesupply@agentmail.to",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T12:15:00Z",
+      "tags": ["hours", "fulfillment"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/scope/",
       "url": "https://sespear86.github.io/source-supply/scope/",
       "title": "Scope — what is in the paid file, and what is not",

@@ -8,6 +8,13 @@
     <atom:link href="https://sespear86.github.io/source-supply/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
+      <title>Hours — when the paid file is emailed after Stripe</title>
+      <link>https://sespear86.github.io/source-supply/hours/</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/hours/</guid>
+      <description>After Stripe succeeds, the QA-pass paid copy is emailed. Harbor listens every hour, America/Denver. Missing file is fulfillment, not a refund. Contact sourcesupply@agentmail.to</description>
+      <pubDate>Sun, 23 Aug 2026 12:15:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Scope — what is in the paid file, and what is not</title>
       <link>https://sespear86.github.io/source-supply/scope/</link>
       <guid isPermaLink="true">https://sespear86.github.io/source-supply/scope/</guid>
