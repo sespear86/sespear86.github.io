@@ -12,6 +12,7 @@
       "price_usd": 19,
       "interval": "month",
       "url": "https://sespear86.github.io/source-supply/streams/weekly-digest/index.html",
+      "buy": "https://sespear86.github.io/source-supply/buy/pulse/",
       "checkout": "https://buy.stripe.com/4gM14f66D3T79d7adZ2Nq0a"
     },
     {
@@ -21,6 +22,7 @@
       "price_usd": 179,
       "interval": "once",
       "url": "https://sespear86.github.io/source-supply/streams/vendor-diligence-pack/index.html",
+      "buy": "https://sespear86.github.io/source-supply/buy/docket/",
       "checkout": "https://buy.stripe.com/8x228jdz5blzdtn85R2Nq0c",
       "not": "legal advice"
     }

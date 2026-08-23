@@ -4,11 +4,12 @@
 
 ## Fastest live offers
 
-- [Weekly Operator Digest](https://sespear86.github.io/source-supply/streams/weekly-digest/index.html): $19/mo cited weekly digest (Pulse). Checkout: https://buy.stripe.com/4gM14f66D3T79d7adZ2Nq0a
-- [Public-Record Vendor Standing Pack](https://sespear86.github.io/source-supply/streams/vendor-diligence-pack/index.html): $179 USASpending rollup plus dated OFAC named-entity screen (Docket). Not legal advice. Checkout: https://buy.stripe.com/8x228jdz5blzdtn85R2Nq0c
+- [Pay Pulse](https://sespear86.github.io/source-supply/buy/pulse/): $19/mo one-button Stripe checkout. Catalog: https://sespear86.github.io/source-supply/streams/weekly-digest/index.html
+- [Pay Docket](https://sespear86.github.io/source-supply/buy/docket/): $179 one-button Stripe checkout. Not legal advice. Catalog: https://sespear86.github.io/source-supply/streams/vendor-diligence-pack/index.html
 
 ## Catalog
 
+- [Pay page](https://sespear86.github.io/source-supply/buy/): Pulse $19/mo and Docket $179
 - [Full catalog](https://sespear86.github.io/source-supply/): twelve live offers
 - [RSS](https://sespear86.github.io/source-supply/feed.xml)
 - [JSON](https://sespear86.github.io/source-supply/catalog.json)

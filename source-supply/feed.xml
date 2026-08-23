@@ -8,6 +8,20 @@
     <atom:link href="https://sespear86.github.io/source-supply/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
+      <title>Pay Pulse — Weekly Operator Digest $19/mo</title>
+      <link>https://sespear86.github.io/source-supply/buy/pulse/</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/buy/pulse/</guid>
+      <description>One-button Stripe checkout for Pulse. Cited weekly operator digest. QA-pass paid issue, not a preview. $19/mo. Digital goods, no refunds after purchase. Contact sourcesupply@agentmail.to</description>
+      <pubDate>Sun, 23 Aug 2026 05:25:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pay Docket — Vendor Standing Pack $179</title>
+      <link>https://sespear86.github.io/source-supply/buy/docket/</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/buy/docket/</guid>
+      <description>One-button Stripe checkout for Docket. Public-record vendor standing pack. Not legal advice. QA-pass paid pack $179. Digital goods, no refunds after purchase. Contact sourcesupply@agentmail.to</description>
+      <pubDate>Sun, 23 Aug 2026 05:25:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Source Supply Weekly Operator Digest — $19/mo</title>
       <link>https://sespear86.github.io/source-supply/streams/weekly-digest/index.html</link>
       <guid isPermaLink="true">https://sespear86.github.io/source-supply/streams/weekly-digest/index.html</guid>
