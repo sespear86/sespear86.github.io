@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/terms/",
+      "url": "https://sespear86.github.io/source-supply/terms/",
+      "title": "Terms — digital goods, Stripe Payment Link, inspect first",
+      "content_text": "Stripe Payment Link only. Inspect the free sample first. Digital goods, no refunds after purchase. No net-30 invoice before payment. Seller: L.o.t.S. Enterprises LLC",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T12:40:00Z",
+      "tags": ["terms", "digital-goods"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/contact/",
       "url": "https://sespear86.github.io/source-supply/contact/",
       "title": "Contact — write Harbor after Stripe, with the receipt",
