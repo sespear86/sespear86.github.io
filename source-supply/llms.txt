@@ -4,6 +4,7 @@
 
 ## Fastest live offers
 
+- [Join Pulse](https://sespear86.github.io/source-supply/join/): $19/mo Stripe join
 - [Subscribe to Pulse](https://sespear86.github.io/source-supply/subscribe/): $19/mo Stripe subscribe
 - [Start Pulse](https://sespear86.github.io/source-supply/start/): $19/mo one-button Stripe checkout
 - [Pay Pulse](https://sespear86.github.io/source-supply/pulse/): $19/mo short URL → Stripe. Conversion: https://sespear86.github.io/source-supply/buy/pulse/

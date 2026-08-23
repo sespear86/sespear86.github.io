@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Source Supply feeds</title>
+    <dateCreated>Sun, 23 Aug 2026 06:10:00 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Source Supply live offers" title="Source Supply live offers" type="rss" xmlUrl="https://sespear86.github.io/source-supply/feed.xml" htmlUrl="https://sespear86.github.io/source-supply/"/>
+    <outline text="Source Supply Atom" title="Source Supply Atom" type="rss" xmlUrl="https://sespear86.github.io/source-supply/feed.atom" htmlUrl="https://sespear86.github.io/source-supply/subscribe/"/>
+    <outline text="Source Supply JSON Feed" title="Source Supply JSON Feed" type="rss" xmlUrl="https://sespear86.github.io/source-supply/feed.json" htmlUrl="https://sespear86.github.io/source-supply/start/"/>
+    <outline text="Source Supply products" title="Source Supply products" type="rss" xmlUrl="https://sespear86.github.io/source-supply/products.xml" htmlUrl="https://sespear86.github.io/source-supply/buy/"/>
+  </body>
+</opml>
