@@ -24,8 +24,20 @@
       "interval": "once",
       "url": "https://sespear86.github.io/source-supply/streams/vendor-diligence-pack/index.html",
       "buy": "https://sespear86.github.io/source-supply/buy/docket/",
+      "short": "https://sespear86.github.io/source-supply/docket/",
       "checkout": "https://buy.stripe.com/8x228jdz5blzdtn85R2Nq0c",
       "not": "legal advice"
+    },
+    {
+      "slug": "rfp-draft-pack",
+      "name": "Source Supply RFP Draft Pack",
+      "specialist": "Tender",
+      "price_usd": 249,
+      "interval": "once",
+      "url": "https://sespear86.github.io/source-supply/streams/rfp-draft-pack/index.html",
+      "buy": "https://sespear86.github.io/source-supply/rfp/",
+      "checkout": "https://buy.stripe.com/bJe8wH3Yv75j893fyj2Nq0b",
+      "not": "legal advice; never submits a bid"
     }
   ]
 }
