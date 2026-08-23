@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/license/",
+      "url": "https://sespear86.github.io/source-supply/license/",
+      "title": "License — what you may do with the paid file",
+      "content_text": "You may use the QA-pass paid copy internally. You may not resell it. Pulse is a subscription, not a copyright transfer. Contact sourcesupply@agentmail.to",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T12:20:00Z",
+      "tags": ["license", "internal-use"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/hours/",
       "url": "https://sespear86.github.io/source-supply/hours/",
       "title": "Hours — when the paid file is emailed after Stripe",

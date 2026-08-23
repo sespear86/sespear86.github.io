@@ -4,6 +4,7 @@
 
 ## Fastest live offers
 
+- [License](https://sespear86.github.io/source-supply/license/): you may use the QA-pass paid copy internally. You may not resell it. Pulse is a subscription, not a copyright transfer.
 - [Hours](https://sespear86.github.io/source-supply/hours/): after Stripe succeeds, the QA-pass paid copy is emailed. Harbor listens every hour, America/Denver. Missing file is fulfillment, not a refund.
 - [Scope](https://sespear86.github.io/source-supply/scope/): you buy a QA-pass file. Pulse never publishes. Atlas is not advice. Docket never files SAM. Tender never submits a bid.
 - [Invoice](https://sespear86.github.io/source-supply/invoice/): Stripe emails a receipt to the checkout address. Use it for expense and AP. The receipt is not the paid file.

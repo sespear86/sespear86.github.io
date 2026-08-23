@@ -8,6 +8,13 @@
     <atom:link href="https://sespear86.github.io/source-supply/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
+      <title>License — what you may do with the paid file</title>
+      <link>https://sespear86.github.io/source-supply/license/</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/license/</guid>
+      <description>You may use the QA-pass paid copy internally. You may not resell it. Pulse is a subscription, not a copyright transfer. Contact sourcesupply@agentmail.to</description>
+      <pubDate>Sun, 23 Aug 2026 12:20:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Hours — when the paid file is emailed after Stripe</title>
       <link>https://sespear86.github.io/source-supply/hours/</link>
       <guid isPermaLink="true">https://sespear86.github.io/source-supply/hours/</guid>
