@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/contents/",
+      "url": "https://sespear86.github.io/source-supply/contents/",
+      "title": "Contents — section list of each paid file",
+      "content_text": "Open the section list before you pay. Pulse $19/mo, Atlas $79, Docket $179, Tender $249. The free sample is not the paid file. Seller: L.o.t.S. Enterprises LLC",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T14:00:00Z",
+      "tags": ["contents", "checkout"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/faq/",
       "url": "https://sespear86.github.io/source-supply/faq/",
       "title": "FAQ — pay Stripe, inspect first, Harbor emails the QA-pass file",
