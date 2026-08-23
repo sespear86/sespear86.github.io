@@ -8,6 +8,15 @@
   "language": "en",
   "items": [
     {
+      "id": "https://sespear86.github.io/source-supply/invoice/",
+      "url": "https://sespear86.github.io/source-supply/invoice/",
+      "title": "Invoice — Stripe receipt for expense and AP",
+      "content_text": "Stripe emails a receipt to the address you give at checkout. Use it for expense and AP. The receipt is not the paid file. Docket $179 and Tender $249 are one-time. Contact sourcesupply@agentmail.to",
+      "image": "https://sespear86.github.io/source-supply/buy/og.png",
+      "date_published": "2026-08-23T11:40:00Z",
+      "tags": ["invoice", "receipt"]
+    },
+    {
       "id": "https://sespear86.github.io/source-supply/delivery/",
       "url": "https://sespear86.github.io/source-supply/delivery/",
       "title": "Delivery — how the paid file arrives after Stripe",

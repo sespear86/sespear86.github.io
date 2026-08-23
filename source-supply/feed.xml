@@ -8,6 +8,13 @@
     <atom:link href="https://sespear86.github.io/source-supply/feed.xml" rel="self" type="application/rss+xml"/>
     <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
     <item>
+      <title>Invoice — Stripe receipt for expense and AP</title>
+      <link>https://sespear86.github.io/source-supply/invoice/</link>
+      <guid isPermaLink="true">https://sespear86.github.io/source-supply/invoice/</guid>
+      <description>Stripe emails a receipt to the address you give at checkout. Use it for expense and AP. The receipt is not the paid file. Docket $179 and Tender $249 are one-time. Contact sourcesupply@agentmail.to</description>
+      <pubDate>Sun, 23 Aug 2026 11:40:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Delivery — how the paid file arrives after Stripe</title>
       <link>https://sespear86.github.io/source-supply/delivery/</link>
       <guid isPermaLink="true">https://sespear86.github.io/source-supply/delivery/</guid>

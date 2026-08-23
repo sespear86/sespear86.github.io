@@ -14,6 +14,7 @@ Need: https://sespear86.github.io/source-supply/need/ (job chooser)
 Quality: https://sespear86.github.io/source-supply/quality/ (QA-pass vs snapshot)
 Owned: https://sespear86.github.io/source-supply/owned/ (what you own after Stripe)
 Refunds: https://sespear86.github.io/source-supply/refunds/ (digital goods, inspect first, no refunds after purchase)
+Invoice: https://sespear86.github.io/source-supply/invoice/ (Stripe receipt for expense and AP; not the paid file)
 Delivery: https://sespear86.github.io/source-supply/delivery/ (QA-pass paid copy emailed after Stripe)
 Offers: Pulse $19/mo https://sespear86.github.io/source-supply/start/
         Atlas $79 https://sespear86.github.io/source-supply/brief/
